@@ -1,6 +1,8 @@
 
 <h2  align="center"> ✧ Hello World! ✧ </h2>
 
+<br>
+
 <div style="display: inline_block"><br>
   <img align="right" alt="yoda-animation" height="250" width="250" src="https://media.giphy.com/avatars/palomalightwood/dtPcbxgNtW0y.gif">
 </div>  
@@ -23,7 +25,7 @@
  </div>
  
 
-  <h4  align="center"> "Whenever someone creates something with all of their heart,  then that creation is given a soul.” <br>
+  <h4  align="center"> "Whenever someone creates something with all of their <br> heart, then that creation is given a soul.” <br>
     - The Baron, 'The Cat Returns' (2002). </h4>
 
   
