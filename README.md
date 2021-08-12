@@ -1,7 +1,7 @@
 ## <p align=center> ✧ Hello World! ✧
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="plant-animation" height="300" width="300" src="https://c.tenor.com/0fnBk9iZJp8AAAAi/plant-spider-plant.gif">
+  <img align="right" alt="plant-animation" height="150" width="150" src="https://c.tenor.com/lOKztFccb6cAAAAi/pixelmando-themandalorian.gif">
 </div>  
 
 
