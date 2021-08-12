@@ -2,7 +2,7 @@
 <h2  align="center"> ✧ Hello World! ✧ </h2>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="yoda-animation" height="150" width="150" src="https://c.tenor.com/lOKztFccb6cAAAAi/pixelmando-themandalorian.gif">
+  <img align="right" alt="yoda-animation" height="250" width="250" src="https://media.giphy.com/avatars/palomalightwood/dtPcbxgNtW0y.gif">
 </div>  
 
 <div align="center"> 
