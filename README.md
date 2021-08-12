@@ -1,5 +1,6 @@
-## ✧ Hello World ✧
+## ✧ Hello World! ✧
 
+### Meu nome é Luana, tenho 24 anos e hoje sou estagiária em engenharia de software! Me interesso por 
 <!--
 **luananegreiros/luananegreiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
