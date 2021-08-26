@@ -1,7 +1,7 @@
 
 # Hi, I'm Lua! 
  
-<img align="right" alt="yoda-animation" height="250" width="450" src="https://64.media.tumblr.com/5d2d839cd70bc3db2fa9acddb9cedd92/tumblr_nbpotrjgO11qi4ibzo1_500.gifv">
+<img align="right" alt="yoda-animation" height="200" width="200" src="https://64.media.tumblr.com/258d5312d4d24c2475e784728e1cd2fa/tumblr_p5jwy2Pn8s1wyt28po1_250.gifv">
 
 <br> 
 
