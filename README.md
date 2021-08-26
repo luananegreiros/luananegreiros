@@ -1,13 +1,13 @@
 
 # Hi, I'm Lua! 
  
-<img align="right" alt="yoda-animation" height="250" width="250" src="https://media.giphy.com/avatars/palomalightwood/dtPcbxgNtW0y.gif">
+<img align="right" alt="yoda-animation" height="250" width="450" src="https://64.media.tumblr.com/5d2d839cd70bc3db2fa9acddb9cedd92/tumblr_nbpotrjgO11qi4ibzo1_500.gifv">
 
 <br> 
 
 <div align="left"> 
    <h4> ✧ Current I'm learning </h4>
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
  </div>
